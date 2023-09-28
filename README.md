@@ -17,7 +17,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaEmy&layout=compact&theme=jolly"/>
 </div>
 
-
 ### Contatos
 <div>
 <a href="https://www.instagram.com/paulatamay_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-151515?style=for-the-badge&logo=instagram&logoColor=A960FF" target="_blank"></a>
