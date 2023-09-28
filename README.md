@@ -14,7 +14,7 @@
 <div>
 <a href="https://github.com/PaulaEmy">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mariayumi&show_icons=true&theme=jolly"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariayumi&layout=compact&theme=jolly"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaEmy&layout=compact&theme=jolly"/>
 </div>
 
 ![Snake animation](https://github.com/Mariayumi/Mariayumi/blob/output/github-contribution-grid-snake.svg)
